@@ -1,0 +1,23 @@
+.tile {
+    float:left;
+}
+.custom_row {
+    margin-left: 0;
+    margin-right:0;
+}
+
+.slider-input {
+    width:100%;
+    float:left; 
+}
+.padding-top {
+    padding-top:20px;
+}
+.padding-bottom {
+    padding-bottom:20px;
+}
+.react-blur-canvas {
+    top:auto !important;
+    left:auto !important;
+    position: relative !important;
+}
